@@ -1,12 +1,10 @@
-.cards{
-  position: relative
-}
-
-
+// .cards{
+//   position: relative
+// }
 
 .card {
   height: 175px;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  text-shadow: 0 1px 3px $gray;
   background-size: cover !important;
   background-position: center;
   color: white;
